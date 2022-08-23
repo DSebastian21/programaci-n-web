@@ -1,2 +1,2 @@
-# programaci-n-web
-Taller de programación web VI-A
+# programacion web
+Taller de programación web VI A
